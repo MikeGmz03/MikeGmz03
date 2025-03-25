@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! <br><br>I'm Michael, I'm an engineer passionate about technology, sustainable development and business intelligence.<br><br>I have 6 years of experience in data and business analysis using GCP, DataStudio and Tableau.<br><br>I know how to transform business needs into high impact data-driven projects.<br><br>Currently learning data science, machine learning for business artificial intelligence development and Project management.
+Hello! <br><br>I'm Michael, I'm an engineer passionate about technology, sustainable development and business intelligence.<br><br>I have 3 years of experience in data and business analysis using GCP, DataStudio and Tableau.<br><br>I know how to transform business needs into high impact data-driven projects.<br><br>Currently learning data science, machine learning for business artificial intelligence development and Project management.
 
 
 ## 🌐 Socials:
